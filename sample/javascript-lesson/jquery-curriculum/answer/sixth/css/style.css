@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.wrapper {
+  width: 1100px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.btn {
+  padding: 1px 6px;
+  border: solid 2px #000;
+  border-radius: 4px;
+}
+
+.search-btn {
+  margin-top: 339px;
+}
+
+.img {
+  width: 300px;
+  height: 300px;
+}
+
+.text {
+  height: 300px;
+  line-height: 300px;
+}
+
+.mt {
+  margin-top: 39px;
+}
+
+.name {
+  font-size: 30px;
+}
