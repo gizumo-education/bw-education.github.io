@@ -1,3 +1,9 @@
+---
+layout: post
+title: Blogging Like a Hacker
+
+---
+
 # GizumoFAQ
 
 ## 【Question】inline-blockの横並びをしようとしたら段落ちしてしまってうまくいかない
