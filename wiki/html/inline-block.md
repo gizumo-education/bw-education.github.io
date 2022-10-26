@@ -1,8 +1,4 @@
----
-layout: post
-title: Blogging Like a Hacker
-
----
+<meta charset="UTF-8">
 
 # GizumoFAQ
 
