@@ -23,4 +23,4 @@ inline要素は文の一部として扱うので基本的に改行をせずに�
 </div>
 ```
 
-この状況でpタグをinline-blockにした時っっっy
+この状況でpタグをinline-blockにした時
