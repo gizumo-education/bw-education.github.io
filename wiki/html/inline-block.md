@@ -1,5 +1,3 @@
-<meta charset="UTF-8">
-
 # GizumoFAQ
 
 ## 【Question】inline-blockの横並びをしようとしたら段落ちしてしまってうまくいかない
