@@ -1,4 +1,4 @@
-b# GizumoFAQ
+# GizumoFAQ
 
 ## 【Question】
 クラスとインスタンスの関係性がよくわかりません
