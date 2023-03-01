@@ -1,7 +1,5 @@
 # Arrayメソッド
 
-https://giztech.slack.com/archives/C02ERTCBNHY/p1675392300091629?thread_ts=1675156104.818129&cid=C02ERTCBNHY
-
 ## 練習問題1
 
 ### ヒント
