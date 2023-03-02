@@ -27,7 +27,7 @@ const 任意の変数名 = document.querySelector('対象のセレクタ');
 取得したら`console.log(任意の変数名)`で子要素も含めた対象の要素が取得できていればOKです。  
 ※`card-type--mocha`の結果のみ記載しています
 
-```
+```html
 <article class="card-type card-type--mocha">
   <h2 class="card-type__title">
     <span class="card-type__circle"></span>
