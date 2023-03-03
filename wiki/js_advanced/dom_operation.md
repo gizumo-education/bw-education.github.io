@@ -66,7 +66,8 @@ DOM操作セクションの下部に記載されているヒントを参考に�
 「Event Type」カードはdisplay: none;で非表示になっています
 
 `display: none;`で非表示になっている要素を表示させるには`display: none;`を`display: block;`に変更する必要があります。  
-cssプロパティは`対象の要素.style.プロパティ名 = '値';`で変更することができるので、今回変更したいプロパティはdisplayなので下記のように記載します。  
+cssプロパティは`対象の要素.style.プロパティ名 = '値';`で変更することができます。  
+今回変更したいプロパティはdisplayなので下記のように記載します。  
 ```javascript
 対象の要素.style.display = 'block';
 ```
